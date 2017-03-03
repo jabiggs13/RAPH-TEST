@@ -1,5 +1,5 @@
-var MAP_WIDTH  = 400;
-var MAP_HEIGHT = 920;
+var JSKEL_WIDTH  = 400;
+var JSKEL_HEIGHT = 920;
 
 var jskelContainer = document.getElementById("jskel-02");
 var jskel = new Raphael(jskelContainer, JSKEL_WIDTH, JSKEL_HEIGHT);
